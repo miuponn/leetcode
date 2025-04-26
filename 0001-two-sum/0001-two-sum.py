@@ -1,9 +1,13 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        seen = {}                                   # initialize dict
+        # initialize dict
+        seen = {}                                   
 
-        for i, num in enumerate(nums):              # iterate over index and element in array nums
+        # iterate over index and num in array nums
+        for i, num in enumerate(nums):              
             diff = target - num
-            if diff in seen:                        # if difference exists in dict
-                return [seen[diff], i]              # return indices of difference, element
-            seen[num] = i                           # else add element, index to dict
+            # if complement of current num exists in dict, return indices of complement and current num
+            if diff in seen:                    
+                return [seen[diff], i]
+            # append current num and its array index to dict          
+            seen[num] = i                      
