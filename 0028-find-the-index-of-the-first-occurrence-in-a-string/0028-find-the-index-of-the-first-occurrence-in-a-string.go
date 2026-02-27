@@ -1,4 +1,5 @@
 func strStr(haystack string, needle string) int {
+    // NAIVE approach
     // outer loop haystack o(n)
     for i := 0; i < len(haystack); i++ {
         // inner loop needle o(m)
@@ -14,4 +15,4 @@ func strStr(haystack string, needle string) int {
         }
     } 
     return -1 //else return not found
-}
+} // TC: n(n * m)
