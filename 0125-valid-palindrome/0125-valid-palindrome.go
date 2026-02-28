@@ -1,12 +1,11 @@
 func isPalindrome(s string) bool {
-    i := 0
-    j := len(s) - 1
+    i, j := 0, len(s) - 1                                   // two pointers, front and back traversal
 
-    for i < j {
-        if !(isAlphanumeric(s[i])){ i++ }
+    for i < j {                                             // while pointers have not met
+        if !(isAlphanumeric(s[i])){ i++ }                   // if ascii, increment/decrement pointer
         if !(isAlphanumeric(s[j])){ j-- }
-        if isAlphanumeric(s[i]) && isAlphanumeric(s[j]){
-            if s[i]|32 != s[j]|32 {
+        if isAlphanumeric(s[i]) && isAlphanumeric(s[j]){    // compare if matching
+            if s[i]|32 != s[j]|32 {                         // normalize lower case
                 return false
             } 
             i, j = i + 1, j - 1
@@ -15,6 +14,7 @@ func isPalindrome(s string) bool {
     return true
 }
 
+// helper func: check if byte is alphanumeric
 func isAlphanumeric(c byte) bool {
     if c >= '0' && c <= '9' || c >= 'A' && c <= 'Z' || c >= 'a' && c <= 'z' {
         return true
