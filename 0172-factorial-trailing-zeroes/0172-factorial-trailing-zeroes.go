@@ -1,6 +1,6 @@
 func trailingZeroes(n int) int {
     k := 0                                  // k = num of trailing zeroes
-    for i := 1; i <= n; i++ {            // iterative log 5 n 
+    for i := 1; i <= n; i++ {               // iterative log 5 n 
         k += n/5                            // k = floor(n^i) until floor(n/5) = 5
         n = n/5                             
     }
