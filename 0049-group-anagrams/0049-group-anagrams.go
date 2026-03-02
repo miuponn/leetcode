@@ -1,8 +1,8 @@
 func groupAnagrams(strs []string) [][]string {
-    groups := make(map[[26]int][]string) // init frequencykey=stringsgroup
-    for _, str := range strs {           // iterate over each str in strs
-        var key [26]int                   // init array of 26 int vals 
-        for _, ch := range str {         // for each ch in str, increment val at alphabet index for key
+    groups := make(map[[26]int][]string)        // init frequencykey=stringsgroup
+    for _, str := range strs {                  // iterate over each str in strs
+        var key [26]int                         // init array of 26 int vals 
+        for _, ch := range str {                // for each ch in str, increment val at alphabet index for key
             key[ch - 'a']++
         }
         groups[key] = append(groups[key], str)  // add str to group for that key
