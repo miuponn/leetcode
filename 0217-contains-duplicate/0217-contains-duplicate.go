@@ -1,10 +1,10 @@
 func containsDuplicate(nums []int) bool {
-    seen := make(map[int]int)
+    seen := make(map[int]bool)
     for i := 0; i < len(nums); i++ {
-        if seen[nums[i]] == 1 {
+        if seen[nums[i]]{
             return true
         } else {
-            seen[nums[i]] = 1
+            seen[nums[i]] = true
         }
     }
     return false
