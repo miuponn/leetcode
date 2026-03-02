@@ -1,9 +1,9 @@
 func isAnagram(s string, t string) bool {
     map1 := make(map[byte]int)
     count := 0
-    for i := 0; i < len(s); i++ {
+    for i := 0; i < len(s); i++ {                       // O(n) to build map ch:count
         if map1[s[i]] == 0 {
-            count++
+            count++                                     // counter for length check + extra chs
         }
         map1[s[i]]++
     }
@@ -18,3 +18,5 @@ func isAnagram(s string, t string) bool {
     }
     return count == 0
 }
+
+// O(n + m) solution that works for all unicode (case sensitive)
