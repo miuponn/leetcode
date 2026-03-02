@@ -13,3 +13,4 @@ func groupAnagrams(strs []string) [][]string {
     }
     return res
 }
+// O(n) = O(n * m + k)
