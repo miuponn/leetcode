@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/miuponn/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/miuponn/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/miuponn/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/miuponn/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/miuponn/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/miuponn/leetcode/tree/master/0383-ransom-note) |
 ## String
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/miuponn/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/miuponn/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/miuponn/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/miuponn/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/miuponn/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/miuponn/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/miuponn/leetcode/tree/master/0392-is-subsequence) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/miuponn/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/miuponn/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/miuponn/leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
