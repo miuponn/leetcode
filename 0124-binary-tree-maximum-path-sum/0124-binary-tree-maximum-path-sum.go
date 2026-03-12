@@ -13,7 +13,7 @@ func maxPathSum(root *TreeNode) int {
         dfs = func(node *TreeNode) int {
             if node == nil { return 0 }                             // base case: end of subtree, add 0 to path sum
 
-            // in-order: left + right subtree processing
+            // post-order: left + right subtree processing
             leftMax := dfs(node.Left)                               // process sum of left subtree
             leftMax = max(leftMax, 0)                               // negative single downward paths computed as 0
 
