@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/miuponn/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/miuponn/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/miuponn/leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/miuponn/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0875-koko-eating-bananas](https://github.com/miuponn/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/miuponn/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/miuponn/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/miuponn/leetcode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/miuponn/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/miuponn/leetcode/tree/master/0383-ransom-note) |
 ## String
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/miuponn/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/miuponn/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/miuponn/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/miuponn/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -101,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/miuponn/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/miuponn/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/miuponn/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/miuponn/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/miuponn/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/miuponn/leetcode/tree/master/0383-ransom-note) |
 ## Stack
 |  |
@@ -216,4 +221,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/miuponn/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/miuponn/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/miuponn/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/miuponn/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
