@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/miuponn/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/miuponn/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/miuponn/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/miuponn/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/miuponn/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0875-koko-eating-bananas](https://github.com/miuponn/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
@@ -233,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/miuponn/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/miuponn/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
