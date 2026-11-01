@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/miuponn/leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/miuponn/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/miuponn/leetcode/tree/master/0567-permutation-in-string) |
+| [0824-goat-latin](https://github.com/miuponn/leetcode/tree/master/0824-goat-latin) |
 | [0981-time-based-key-value-store](https://github.com/miuponn/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Sliding Window
 |  |
